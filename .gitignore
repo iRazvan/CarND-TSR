@@ -4,3 +4,7 @@ data
 models
 *.swp
 *.p
+newdata
+traffic-signs-data.zip
+Traffic_Sign_Classifier-Copy1.ipynb
+Traffic_Sign_Classifier_Razvan.ipynb
